@@ -1,5 +1,5 @@
-## 👋 Hi, I’m omar
-### view my [portfolio](https://omarsha157.github.io/portfolio/)
+# 👋 Hi, I’m omar
+## view my [portfolio](https://omarsha157.github.io/portfolio/)
  I’m interested in web development
 - 🌱 I’m currently learning MEARN stack
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/omarsha157/), [gamil](mailto:omarsha157@gmail.com)
