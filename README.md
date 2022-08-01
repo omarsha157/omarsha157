@@ -8,6 +8,8 @@
 
 👋 Hey I am omar, after my studies I did some freelancing as a graphic designer during that time I discovered the world of web development and to improve my skillset i am currently learning MEARN stack.
 
+<br>
+
 <!-- ## 📌 Pinned Repositories
 
 <a href="">
@@ -16,6 +18,8 @@
 
 ## 📖Checkout my blog
 - [How to code from your android smartphone](https://omarsha.hashnode.dev/how-to-code-from-your-android-smartphone)
+
+<br>
 
 ## 📈 GitHub Stats
 
@@ -26,7 +30,9 @@
 
 <!-- <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=omarsha157&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="JOBIN's GitHub Stats" /> -->
 
-## Skills
+<br>
+
+## 🚀 Skills
 
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
