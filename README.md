@@ -6,7 +6,7 @@
 
 ## 💎view my [portfolio](https://omarsha157.github.io/portfolio/)
 
-👋 Hey I am omar I’m interested in web development. I’m currently learning MEARN stack.
+👋 Hey I am omar, after my studies I did some freelancing as a graphic designer during that time I discovered the world of web development and to improve my skillset i am currently learning MEARN stack.
 
 <!-- ## 📌 Pinned Repositories
 
@@ -15,7 +15,7 @@
 </a> -->
 
 ## 📖Checkout my blog
-- [How to code from your android](https://omarsha.hashnode.dev/how-to-code-from-your-android-smartphone)
+- [How to code from your android smartphone](https://omarsha.hashnode.dev/how-to-code-from-your-android-smartphone)
 
 ## 📈 GitHub Stats
 
