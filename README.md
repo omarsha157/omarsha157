@@ -4,6 +4,8 @@
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarsha157@gmail.com)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/omarsha157)
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarsha157&label=Profile%20views&color=0e75b6&style=flat" alt="view count" /> </p> -->
+
 ## 💎view my [portfolio](https://omarsha157.github.io/portfolio/)
 
 👋 Hey I am omar, after my studies I did some freelancing as a graphic designer during that time I discovered the world of web development and to improve my skillset i am currently learning MEARN stack.
@@ -18,6 +20,8 @@
 
 ## 📖Checkout my blog
 - [How to code from your android smartphone](https://omarsha.hashnode.dev/how-to-code-from-your-android-smartphone)
+
+➡️ [more blog posts](https://omarsha.hashnode.dev/)
 
 <br>
 
@@ -40,6 +44,9 @@
 
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com/omarsha157#gh-light-mode-only)
 
+<br>
+<br>
+
 <!--
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -53,17 +60,16 @@
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 -->
 
-<br>
-
 ## 📈 GitHub Stats
 
 <!-- <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarsha157&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /> -->
 
-<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarsha157&theme=grey" />
+<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarsha157&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 	
 
 <!-- <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=omarsha157&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="JOBIN's GitHub Stats" /> -->
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omarsha157&theme=dark&background=1A2B34&)
 <br>
 
 
